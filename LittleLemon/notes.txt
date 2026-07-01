@@ -1,0 +1,24 @@
+=== Little Lemon API - User Credentials ===
+
+SUPERUSER (Admin):
+  username: admin
+  password: admin123
+  email: admin@littlelemon.com
+
+MANAGER:
+  username: manager1
+  password: Test1234!
+  email: manager1@test.com
+  group: Manager
+
+DELIVERY CREW:
+  username: delivery1
+  password: Test1234!
+  email: delivery1@test.com
+  group: Delivery crew
+
+CUSTOMER:
+  username: customer1
+  password: Test1234!
+  email: customer1@test.com
+  group: (none - customer)
